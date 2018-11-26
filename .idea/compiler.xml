@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="app_logs_client" />
+        <module name="app_logs_collect_web" />
+        <module name="app_logs_common" />
+        <module name="app_logs_flume" />
+        <module name="app_logs_hive" />
+        <module name="app_logs_visualize_web" />
+        <module name="app_statis_project" />
+      </profile>
+    </annotationProcessing>
+  </component>
+</project>
